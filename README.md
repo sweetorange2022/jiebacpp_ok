@@ -21,7 +21,6 @@ CppJieba是"结巴(Jieba)"中文分词的C++版本，在中文分词方面非好
 + 支持 `Linux` , `Mac OSX`, `Windows` 操作系统。
 
 ## 用法
-https://github.com/sweetorange2022/jiebacpp_ok.git
 
 ### 依赖软件
 
