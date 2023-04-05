@@ -1,0 +1,2 @@
+# jiebacpp_ok
+补充了原作者缺少的limonp库，使得cppjieba可直接编译使用
