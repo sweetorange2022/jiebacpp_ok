@@ -31,7 +31,7 @@ CppJieba是"结巴(Jieba)"中文分词的C++版本,非常好用
 ### 下载和编译
 
 ```sh
-git clone https://github.com/yanyiwu/cppjieba.git
+git clone https://github.com/sweetorange2022/jiebacpp_ok.git
 cd cppjieba
 mkdir build
 cd build
