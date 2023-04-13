@@ -1,11 +1,4 @@
-# CppJieba 
-[![CMake](https://github.com/yanyiwu/cppjieba/actions/workflows/cmake.yml/badge.svg)](https://github.com/yanyiwu/cppjieba/actions/workflows/cmake.yml)
-[![Author](https://img.shields.io/badge/author-@yanyiwu-blue.svg?style=flat)](http://yanyiwu.com/) 
-[![Platform](https://img.shields.io/badge/platform-Linux,%20OS%20X,%20Windows-green.svg?style=flat)](https://github.com/yanyiwu/cppjieba)
-[![Performance](https://img.shields.io/badge/performance-excellent-brightgreen.svg?style=flat)](http://yanyiwu.com/work/2015/06/14/jieba-series-performance-test.html) 
-[![Tag](https://img.shields.io/github/v/tag/yanyiwu/cppjieba.svg)](https://github.com/yanyiwu/cppjieba/releases)
-[![License](https://img.shields.io/badge/license-MIT-yellow.svg?style=flat)](http://yanyiwu.mit-license.org)
-[![Build status](https://ci.appveyor.com/api/projects/status/wl30fjnm2rhft6ta/branch/master?svg=true)](https://ci.appveyor.com/project/yanyiwu/cppjieba/branch/master)
+# CppJieba_ok 🚀
 
 ## 简介
 
@@ -62,4 +55,5 @@ make test
   
   我觉得对于一般场景来说HMM就够用了，比较符合我们的说话停顿、分割习惯。　　
   
-  欢迎start和关注！
+  欢迎start![0047A261](https://user-images.githubusercontent.com/99699966/231781046-b3ff3c29-e412-4c6e-ac72-6443469032c9.png)
+和关注🚀
