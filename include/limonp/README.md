@@ -1,5 +1,5 @@
 # limonp 
-from [yanyiwu/limonp](https://github.com/yanyiwu/limonp)
+From [yanyiwu/limonp](https://github.com/yanyiwu/limonp)
 
 ## Introduction
 
